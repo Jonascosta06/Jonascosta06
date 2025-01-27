@@ -27,8 +27,7 @@ Oi! Sou alguém que sempre foi fascinado por tecnologia e como ela pode mudar no
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonascosta06g&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonascosta06g&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonascosta06&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </div>
 
 
@@ -36,13 +35,11 @@ Oi! Sou alguém que sempre foi fascinado por tecnologia e como ela pode mudar no
 ## 📫 Let's Connect
 
 - 💼 Open for collaboration on interesting projects
-- 📧 Email: 
+- 📧 Email: jonascostadev06@gmail.com
 - 🌐 Portfolio: em Criação
 
 ---
 
 <div align="center">
   <i>⭐️ If you like my projects, feel free to star them and follow me!</i>
-  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RaiVandeberg.RaiVandeberg)
 </div>
